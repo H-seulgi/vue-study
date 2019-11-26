@@ -4,9 +4,6 @@
 
 ## Quick Start Vue.js
 
-### git
-git clone https://github.com/Soon-cheol/vue.git
-
 ### 진행
 - 인원 : 최순철, 유석규, 유혜진, 김소라, 한슬기, 성우경, 이다솜, 박지원
 - 시간 : 오후 7시 30분 ~ 10시 30분
